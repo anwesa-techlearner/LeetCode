@@ -1,0 +1,27 @@
+public class Solution {
+    public int findNumbers(int[] nums) {
+        int count = 0;
+        for (int num : nums) {
+            if (even(num)) {
+                count++;
+            }
+        }
+        return count;
+    }
+
+    private boolean even(int n) {
+        int numberOfDigits = digits(n);
+        return numberOfDigits % 2 == 0;
+    }
+
+    private int digits(int n) {
+        int count = 0;
+        if (n == 0) return 1;
+        n = Math.abs(n);
+        while (n > 0) {
+            count++;
+            n = n / 10;
+        }
+        return count;
+    }
+}
