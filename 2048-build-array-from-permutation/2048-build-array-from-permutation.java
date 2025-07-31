@@ -1,11 +1,19 @@
 class Solution {
     public int[] buildArray(int[] nums) {
-        for (int i = 0; i < nums.length; i++)
-            nums[i] += (1024 * (nums[nums[i]] % 1024));
+       int []ans= new int[nums.length];
+      for(int i=0;i<nums.length;i++){
         
-        for (int i = 0; i < nums.length; i++)
-            nums[i] /= 1024;
-        
-        return nums;
+         ans[i]=nums[nums[i]];
+      }
+      return ans;
+    }
+      public static void main(String[] args){
+        Solution a=new Solution();
+        int []nums={3,2,1,4,5,6};
+        int[] result= a.buildArray(nums);
+
+        for (int num : result) {
+            System.out.print(num + " ");
+      }
     }
 }
