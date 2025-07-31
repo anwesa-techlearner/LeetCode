@@ -20,4 +20,12 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
