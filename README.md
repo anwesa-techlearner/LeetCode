@@ -8,10 +8,12 @@ This contain solution to all 43 days leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -27,6 +29,7 @@ This contain solution to all 43 days leetcode problems
 | [0001-two-sum](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0001-two-sum) |
 | [1580-shuffle-the-array](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2058-concatenation-of-array) |
@@ -43,4 +46,8 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1791-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
