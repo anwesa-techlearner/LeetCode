@@ -7,9 +7,9 @@ class Solution {
                 if(nums[j]<nums[i]&& nums[j]!=nums[i]){
                     low = low +1;
                 }
-           
+             k[i] = low;
             }
-            k[i] = low;
+            
         }
      return k;
     }
