@@ -17,6 +17,7 @@ This contain solution to all 43 days leetcode problems
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
 | [0342-power-of-four](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0342-power-of-four) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1448-maximum-69-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -89,4 +90,8 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
