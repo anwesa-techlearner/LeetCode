@@ -35,6 +35,7 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0152-maximum-product-subarray) |
 | [0861-flipping-an-image](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,4 +103,8 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
