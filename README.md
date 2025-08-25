@@ -15,6 +15,7 @@ This contain solution to all 43 days leetcode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0268-missing-number) |
