@@ -21,6 +21,7 @@ This contain solution to all 43 days leetcode problems
 | [0263-ugly-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0507-perfect-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1448-maximum-69-number) |
