@@ -26,6 +26,7 @@ This contain solution to all 43 days leetcode problems
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1635-number-of-good-pairs) |
+| [2507-number-of-common-factors](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -128,4 +129,12 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
