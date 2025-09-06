@@ -32,6 +32,7 @@ This contain solution to all 43 days leetcode problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0520-detect-capital) |
 | [1899-count-items-matching-a-rule](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1899-count-items-matching-a-rule) |
@@ -98,6 +99,7 @@ This contain solution to all 43 days leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0861-flipping-an-image](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -138,4 +140,8 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2507-number-of-common-factors) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
