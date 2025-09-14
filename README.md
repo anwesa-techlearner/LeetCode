@@ -31,6 +31,7 @@ This contain solution to all 43 days leetcode problems
 | [2507-number-of-common-factors](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This contain solution to all 43 days leetcode problems
 | [2048-build-array-from-permutation](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2058-concatenation-of-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
