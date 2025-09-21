@@ -19,6 +19,7 @@ This contain solution to all 43 days leetcode problems
 | [0009-palindrome-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0342-power-of-four) |
@@ -78,6 +79,7 @@ This contain solution to all 43 days leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1505-create-target-array-in-the-given-order) |
@@ -158,6 +160,7 @@ This contain solution to all 43 days leetcode problems
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2507-number-of-common-factors) |
 ## String Matching
