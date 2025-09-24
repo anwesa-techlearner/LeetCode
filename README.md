@@ -47,6 +47,7 @@ This contain solution to all 43 days leetcode problems
 | [0058-length-of-last-word](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0680-valid-palindrome-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
@@ -120,6 +121,7 @@ This contain solution to all 43 days leetcode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0031-next-permutation) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@ This contain solution to all 43 days leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
