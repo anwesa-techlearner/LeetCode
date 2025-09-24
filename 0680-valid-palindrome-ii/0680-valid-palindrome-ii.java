@@ -1,35 +1,30 @@
 class Solution {
     public boolean validPalindrome(String s) {
-        StringBuilder sb = new StringBuilder(s);
-        int i = 0, j = sb.length() - 1;
+        int left = 0;
+        int right = s.length() - 1;
 
-        while (i < j) {
-            if (sb.charAt(i) != sb.charAt(j)) {
-             
-                sb.deleteCharAt(i);
-                if (isPalindrome(sb)) return true;
-                sb.insert(i, s.charAt(i));
-               
-                sb.deleteCharAt(j);
-                if (isPalindrome(sb)) return true;
-                sb.insert(j, s.charAt(j)); 
-
-                return false; 
-            }
-            i++;
-            j--;
-        
-        }
-        return true; 
-    
-    }
-    boolean isPalindrome(StringBuilder sb) {
-        int left = 0, right = sb.length() - 1;
         while (left < right) {
-            if (sb.charAt(left) != sb.charAt(right)) return false;
+            if (s.charAt(left) != s.charAt(right)) {
+                return isPalindrome(s, left+1, right) || isPalindrome(s, left, right-1);
+            }
+
             left++;
             right--;
         }
+
+        return true;
+    }
+
+    private boolean isPalindrome(String s, int left, int right) {
+        while (left < right) {
+            if (s.charAt(left) != s.charAt(right)) {
+                return false;
+            }
+
+            left++;
+            right--;
+        }
+
         return true;
     }
 }
