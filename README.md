@@ -19,6 +19,7 @@ This contain solution to all 43 days leetcode problems
 | [0009-palindrome-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0263-ugly-number) |
@@ -61,6 +62,7 @@ This contain solution to all 43 days leetcode problems
 | [0001-two-sum](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0169-majority-element) |
