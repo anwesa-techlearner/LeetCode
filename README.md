@@ -50,6 +50,7 @@ This contain solution to all 43 days leetcode problems
 | [0520-detect-capital](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0680-valid-palindrome-ii) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -77,6 +78,7 @@ This contain solution to all 43 days leetcode problems
 | [1580-shuffle-the-array](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1899-count-items-matching-a-rule) |
