@@ -27,6 +27,7 @@ This contain solution to all 43 days leetcode problems
 | [0292-nim-game](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1013-fibonacci-number) |
@@ -168,6 +169,7 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0367-valid-perfect-square) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Dynamic Programming
 |  |
