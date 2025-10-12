@@ -21,6 +21,7 @@ This contain solution to all 43 days leetcode problems
 | [0013-roman-to-integer](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0263-ugly-number) |
@@ -180,6 +181,7 @@ This contain solution to all 43 days leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0367-valid-perfect-square) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
