@@ -31,6 +31,7 @@ This contain solution to all 43 days leetcode problems
 | [0342-power-of-four](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0371-sum-of-two-integers) |
+| [0504-base-7](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1013-fibonacci-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -54,6 +55,7 @@ This contain solution to all 43 days leetcode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0344-reverse-string) |
+| [0504-base-7](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0680-valid-palindrome-ii) |
