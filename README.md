@@ -34,6 +34,7 @@ This contain solution to all 43 days leetcode problems
 | [0367-valid-perfect-square](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1013-fibonacci-number) |
@@ -192,6 +193,7 @@ This contain solution to all 43 days leetcode problems
 | [0069-sqrtx](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0441-arranging-coins) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Dynamic Programming
 |  |
