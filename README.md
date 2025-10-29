@@ -87,6 +87,7 @@ This contain solution to all 43 days leetcode problems
 | [0001-two-sum](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0136-single-number) |
@@ -262,4 +263,5 @@ This contain solution to all 43 days leetcode problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/anwesa-techlearner/Dr_G_Viswanthan_challenge_teacher-sday/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
